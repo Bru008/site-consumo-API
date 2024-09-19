@@ -1,0 +1,277 @@
+.div {
+
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.body{
+
+    background-color: rgb(250, 235, 215);
+}
+
+
+/* COMEÇO API CEP */
+
+.fundo {
+    
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    
+    /*Estilização*/
+    
+    background-color: rgba(248, 245, 65, 0.658);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 10px rgb(170, 160, 146);
+
+}
+
+.image {
+    
+    margin-left: 35px;
+    margin-top: 10px;
+    display: block;
+    width: 70%;
+}
+
+.text{
+
+    margin-top: 60px;
+}
+
+.botao{
+
+    margin-top: 30px;
+    background-color: rgb(252, 252, 205);
+    border-color: rgb(252, 252, 205);
+    width: 90px;
+    height: 40px;
+}
+
+/* FIM API CEP */
+
+/* COMEÇO API DOLAR */
+
+.fundo2 {
+
+    
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    left: 10px;
+    
+    /*Estilização*/
+    
+    background-color: rgba(117, 252, 128, 0.658);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 10px rgb(170, 160, 146);
+
+}
+
+.image2 {
+    
+    margin-top: -2px;
+    display: block;
+    width: 110%;
+}
+
+.text2{
+
+    margin-top: 35px;
+}
+
+.botao2{
+
+    margin-top: 30px;
+    background-color: rgb(162, 253, 134);
+    border-color: rgb(162, 253, 134);
+    width: 90px;
+    height: 40px;
+}
+
+
+/* FIM API DOLAR */
+
+/* COMEÇO API CLIMA */
+
+.fundo3 {
+
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    left: 20px;
+
+    /*Estilização*/
+    
+    background-color: rgba(99, 191, 245, 0.658);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 10px rgb(170, 160, 146);
+
+}
+
+.image3 {
+    
+    margin-left: 30px;
+    display: block;
+    width: 80%;
+}
+
+.text3{
+
+    margin-top: 40px;
+}
+
+.botao3{
+
+    margin-top: 30px;
+    background-color: rgb(223, 253, 253);
+    border-color: rgb(223, 253, 253);
+    width: 90px;
+    height: 40px;
+}
+
+/* FIM API CLIMA */
+
+/*COMEÇO API ECOMMERCE*/
+
+.fundo4{
+
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    
+    /*Estilização*/
+    
+    background-color: rgba(248, 65, 239, 0.658);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 10px rgb(170, 160, 146);
+
+}
+
+.image4 {
+    
+    margin-top: 20px;
+    margin-left: 15px;
+    display: block;
+    width: 275px;
+}
+
+.text4{
+
+    margin-top: 40px;
+}
+
+.botao4{
+
+    margin-top: 30px;
+    background-color: rgb(252, 205, 249);
+    border-color: rgb(252, 205, 249);
+    width: 120px;
+    height: 40px;
+}
+
+/*FIM API ECOMMERCE*/
+
+/*COMEÇO API TEMA */
+
+
+.fundo5 {
+
+    
+    display: inline-block;
+    position: relative;
+    margin-top: 100px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    left: 10px;
+    
+    /*Estilização*/
+    
+    background-color: rgba(196, 52, 52, 0.658);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 10px rgb(170, 160, 146);
+    
+}
+
+.image5 {
+    
+    margin-top: 20px;
+    margin-left: 65px;
+    display: block;
+    width: 175px;
+}
+
+.text5{
+
+    margin-top: 40px;
+}
+
+.botao5{
+
+    margin-top: 30px;
+    background-color: rgb(207, 152, 152);
+    border-color: rgb(207, 152, 152);
+    width: 90px;
+    height: 40px;
+}
+
+/*FIM API TEMA */
+
+/*COMEÇO API CPF*/
+
+.fundo6{
+
+    display: inline-block;
+    position: relative;
+    
+    margin-top: 100px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    left: 20px;
+
+    /*Estilização*/
+    
+    background-color: rgba(99, 245, 221, 0.658);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 10px rgb(170, 160, 146);
+}
+
+.image6 {
+    
+    margin-top: 20px;
+    margin-left: 65px;
+    display: block;
+    width: 170px;
+}
+
+.text6{
+
+    margin-top: 40px;
+}
+
+.botao6{
+
+    margin-top: 30px;
+    background-color: rgb(153, 223, 211);
+    border-color: rgb(153, 223, 211);
+    width: 90px;
+    height: 40px;
+}
+/*FIM API CPF*/

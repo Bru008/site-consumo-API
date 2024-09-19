@@ -1,0 +1,105 @@
+.body {
+
+    background-color: black;
+}
+#erro{
+
+    color: red;
+    position: relative;
+    left: 265px;
+}
+
+.div{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub{
+
+    position: relative;
+    left: 230px;
+}
+
+.subtitle{
+
+    color: rgb(150, 15, 15);
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.imagem{
+
+
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.nome{
+
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.atributo{
+
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.titulo{
+
+    color: rgb(150, 15, 15);
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitulo{
+
+    color: rgb(150, 15, 15);
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: center;
+    position: relative;
+}
+
+.fieldset{
+
+    width: 600px;
+    height: 750px;
+    margin-left: 5%;
+}
+
+.caixa{
+
+    width: 100px;
+    height: 20px;
+    margin-bottom: 10px;
+    justify-content:center;
+    display: flex;
+    margin-left: 45%;
+    margin-top: 20px;
+
+    background-color:  rgba(255, 248, 220, 0.568);
+    border: none;
+    border-radius: 5px;
+}
+
+.botao{
+
+    background-color:  rgba(238, 86, 107, 0.507);
+    border: none;
+    border-radius: 5px;
+    color: rgb(180, 180, 180);
+
+    justify-content:center;
+    display: flex;
+    margin-left: 50%;
+}

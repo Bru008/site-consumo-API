@@ -1,0 +1,41 @@
+.fieldset{
+
+    margin-top: 50px;
+    margin-left: center;
+    background-color: rgba(179, 179, 179, 0.521);
+    height: 130px;
+    width: 300px;
+    border-radius: 20px;
+    border-color: aliceblue;
+}
+
+.div{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.body{
+
+    background-color: rgb(155, 132, 132);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.titulo{
+
+    color: rgb(224, 224, 224);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 725px;
+    margin-top: 60px;
+    width: 200px;
+    font-size: larger;
+}
+
+.botao{
+
+    color: rgb(255, 255, 255);
+    border-radius: 9px;
+    border: none;
+    background-color: rgb(161, 138, 115);
+}
